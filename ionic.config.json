@@ -1,0 +1,7 @@
+{
+  "name": "iSee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
